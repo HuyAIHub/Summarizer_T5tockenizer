@@ -20,7 +20,8 @@ link :https://pytorch.org/get-started/locally/
    ```sh
    python3 app.py
    ```
-## BƯỚC 5: chạy API bằng cách nhẹt 1 đoạn văn bản cần tóm tắt vô.
+## BƯỚC 5: chạy API bằng cách nhét 1 đoạn văn bản cần tóm tắt vô.
+link api: http://localhost:8686/docs
 ![image](https://github.com/Quanghuy99/Summarizer_T5tockenizer/assets/30777550/e030b90a-d252-4e63-8dad-e78f5f8eb5a0)
 
 
